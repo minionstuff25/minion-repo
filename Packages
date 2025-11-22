@@ -1,0 +1,15 @@
+Package: 1.5.0 
+Name: Minion rush 1.5.0 hack 
+Version: 1.0 
+Architecture: iphoneos-arm 
+Description: makes everything free  
+Maintainer: Toasterifc 
+Author: IOS-cheaters 
+Section: Tweaks 
+Depends: com.bigboss.ifile 
+Filename: .deb files/1.5.0.deb 
+Size: 28476 
+MD5sum: 55342BA3E8B637913F613ADB27E096F3 
+SHA1: A98F29BDA99D72EB7012C24795B09917FE8018B7
+SHA256: AC8A45F487F1124E49DB5DAADBAD9EAF8E7CA07D9E5528B5F99857E8 
+
